@@ -1,0 +1,4 @@
+@include font-face('Rubik', '/assets/fonts/Rubik/Rubik-Light/Rubik-Light', $weight: 400, $style: normal, $asset-pipeline: false );
+@include font-face('Rubik', '/assets/fonts/Rubik/Rubik-Regular/Rubik-Regular', $weight: 500, $style: normal, $asset-pipeline: false );
+@include font-face('Rubik', '/assets/fonts/Rubik/Rubik-Medium/Rubik-Medium', $weight: 700, $style: normal, $asset-pipeline: false );
+@include font-face('Rubik', '/assets/fonts/Rubik/Rubik-Bold/Rubik-Bold', $weight: 900, $style: normal, $asset-pipeline: false );
